@@ -1,0 +1,11 @@
+C:\Users\FSotelo\documents\visual studio 2010\Projects\TestJquery1\TestJquery1\bin\TestJquery1.dll
+C:\Users\FSotelo\documents\visual studio 2010\Projects\TestJquery1\TestJquery1\bin\TestJquery1.pdb
+C:\Users\FSotelo\documents\visual studio 2010\Projects\TestJquery1\TestJquery1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\FSotelo\documents\visual studio 2010\Projects\TestJquery1\TestJquery1\obj\Debug\TestJquery1.dll
+C:\Users\FSotelo\documents\visual studio 2010\Projects\TestJquery1\TestJquery1\obj\Debug\TestJquery1.pdb
+C:\Users\mdiazhernand\Downloads\TestJquery2\TestJquery1\TestJquery1\bin\TestJquery1.dll
+C:\Users\mdiazhernand\Downloads\TestJquery2\TestJquery1\TestJquery1\bin\TestJquery1.pdb
+C:\Users\mdiazhernand\Downloads\TestJquery2\TestJquery1\TestJquery1\obj\Debug\TestJquery1.csproj.CoreCompileInputs.cache
+C:\Users\mdiazhernand\Downloads\TestJquery2\TestJquery1\TestJquery1\obj\Debug\TestJquery1.dll
+C:\Users\mdiazhernand\Downloads\TestJquery2\TestJquery1\TestJquery1\obj\Debug\TestJquery1.pdb
+C:\Users\mdiazhernand\Downloads\TestJquery2\TestJquery1\TestJquery1\obj\Debug\TestJquery1.csprojAssemblyReference.cache
